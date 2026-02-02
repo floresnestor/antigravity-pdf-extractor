@@ -2,10 +2,12 @@
 *.exe
 *.dll
 
+# PDF Files
+*.pdf
+
 # Test & Error Folders
 renametest/
 error/
-test_*.pdf
 
 # IDEs
 .vscode/
